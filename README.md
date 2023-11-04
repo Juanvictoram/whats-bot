@@ -59,7 +59,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 <a href="https://juanvictoram.github.io/">
- <img style="border-radius: 30;" src="hhttps://avatars.githubusercontent.com/u/119392809?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 30;" src="https://avatars.githubusercontent.com/u/119392809?v=4" width="100px;" alt=""/>
  <br />
 
 Done with ❤️ by Juan Victoram 👋🏽 !
